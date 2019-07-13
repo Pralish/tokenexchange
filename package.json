@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/Pralish/tokenexchange/issues"
   },
-  "homepage": "https://github.com/Pralish/tokenexchange#readme",
+  "homepage": "https://github.com/Pralish/tokenexchange",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
