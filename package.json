@@ -1,0 +1,25 @@
+{
+  "name": "dist-token-exg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/Pralish/tokenexchange",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pralish/tokenexchange.git"
+  },
+  "keywords": [],
+  "author": "Pralish Kayastha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pralish/tokenexchange/issues"
+  },
+  "homepage": "https://github.com/Pralish/tokenexchange#readme",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
